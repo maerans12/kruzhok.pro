@@ -7,7 +7,7 @@ pip install torch==1.5.0 torchvision==0.6.0 --f https://download.pytorch.org/whl
 
 затем необходимо поместить изображения для обработки алгоритмом в папку (…\yolov3_master\data\samples\). Результат появится в папке (…\yolov3_master\output\).
 
-Для запуска модели, скачать по ссылки с googledisk в папку weights и выполнить команду в cmd:
+Для запуска модели, скачать по ссылки с googledisk веса(https://drive.google.com/file/d/1xo3TnHp2sP2FJpaG0vFCW6f27VI00UWv/view?usp=sharing) в папку weights и выполнить команду в cmd:
 ```
 python detect.py --weights weights/last.pth --cfg data/yolov3-spp.cfg --names data/objects.names
 ```
