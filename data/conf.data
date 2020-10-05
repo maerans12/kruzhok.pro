@@ -1,0 +1,4 @@
+classes=1
+train=C:\Users\User\Documents\NN\yolov3-master\data\train_112.txt
+valid=C:\Users\User\Documents\NN\yolov3-master\data\test_24.txt
+names=C:\Users\User\Documents\NN\yolov3-master\data\objects.names
