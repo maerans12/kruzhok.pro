@@ -8,5 +8,5 @@ pip install torch==1.5.0 torchvision==0.6.0 -f https://download.pytorch.org/whl/
 
 Для запуска модели выполнить команду в cmd:
 ```
-python detect.py —weights weights/last.pt —cfg data/yolov3-spp.cfg —names data/objects.names
+python detect.py —weights weights/last.pt ——cfg data/yolov3-spp.cfg —names data/objects.names
 ```
