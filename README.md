@@ -1,4 +1,5 @@
 # kruzhok.pro
+Версия Python 3.8
 Надо установить [yolo](https://github.com/ultralytics/yolov3) действуя инструкции, потом установить Pytorch и Torchvision выполнив команду для установки в cmd: 
 ```
 pip install torch==1.5.0 torchvision==0.6.0 --f https://download.pytorch.org/whl/torch_stable.html
